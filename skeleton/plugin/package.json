@@ -19,7 +19,6 @@
   ],
   "devDependencies": {
     "del": "",
-    "gulp-sourcemaps": "",
-    "gulp-if": "",
+    "gulp-sourcemaps": ""
   }
 }
