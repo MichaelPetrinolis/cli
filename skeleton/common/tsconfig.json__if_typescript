@@ -32,7 +32,7 @@
     "types": ["node", "jest"],
     // @endif
 
-    // @if feat.webpack && feat['postcss-typical'] && feat.protractor
+    // @if feat['postcss-typical'] && feat.protractor
     "typeRoots": ["./node_modules/@types"],
     // @endif
 
